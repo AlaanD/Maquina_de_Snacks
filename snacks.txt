@@ -1,0 +1,5 @@
+1,Papas,70.0
+2,Gaseosa,50.0
+3,Sandwich,120.0
+4,Chocolate,30.0
+5,Agua,15.0
