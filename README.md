@@ -80,6 +80,4 @@ maquina_snacks_archivo_multicapa:
 ## Autor
 
 - **Alán D.**  
-  _Proyecto creado como parte de una práctica en Java._
 
----
