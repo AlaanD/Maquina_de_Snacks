@@ -79,5 +79,5 @@ maquina_snacks_archivo_multicapa:
 
 ## Autor
 
-- **Alán D.**  
+- **Alán David Dri**  
 
